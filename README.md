@@ -109,5 +109,3 @@ By extracting Hue and Saturation features from detected faces and applying K-Mea
 The template image was classified using the trained clustering model, demonstrating practical use of unsupervised learning for image-based grouping and classification.
 
 
-
-This repository is public and accessible as required by the lab instructions.
